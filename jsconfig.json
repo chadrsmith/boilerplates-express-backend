@@ -1,0 +1,11 @@
+{
+  "complerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@app/*": ["src/"],
+      "@helpers/*": ["src/helpers/*"],
+      "@middlewares/*": ["src/middlewares/*"],
+      "@models/*": ["src/models/*"],
+    }
+  }
+}
